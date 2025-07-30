@@ -49,4 +49,15 @@ This project performs exploratory analysis on financial survey data using Python
 
 ---
 
-## Lets Connect
+## 📫 Let's Connect
+If you're looking for a Data Analyst with a proven record of transforming data into insights and driving tangible business impact — I'd love to connect.
+
+✉️ Email: gs268197@gmail.com
+
+📱 Mobile: +91 7018320090
+
+🔗 LinkedIn: linkedin.com/in/gurpreetsingh1998
+
+💻 GitHub: github.com/gurpreet998
+
+🌐 Portfolio: gurpreet-singh-998.vercel.app
